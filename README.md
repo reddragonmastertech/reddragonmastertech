@@ -151,22 +151,6 @@
 <br/>
 <br/>
 
-### 📊 Statistics
-
-<img
-    align="left"
-    alt= "GitHub Stats"
-    height="200px"
-    style="padding-right: 10px"
-    src= "https://github-readme-stats.vercel.app/api?username=reddragonmaster&show=reviews&show_icons=true&theme=omni&include_all_commits=true"
-/>
-<img
-    align="left"
-    alt= "GitHub Stats"
-    height="200px"
-    style="padding-right: 10px"
-    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reddragonmaster&theme=omni&layout=compact&custom_title=Languages&langs_count=9"
-/>
 <!--
 **reddragonmastertech/reddragonmastertech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
