@@ -1,5 +1,5 @@
-# 👩‍💻 Red Dragon Master
-**`Full-Stack Developer || AI & Automation Expert`**
+# 👩‍💻 Hi, I am Red Guy.
+**`Full Stack Developer || AI & Automation Engineer`**
 
 ---
 ### 🤖 Languages ​​and Technologies
@@ -30,23 +30,14 @@
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"         
 />
-          
-<img 
-    align="left"
-    alt="JAVA"
-    title="JAVA"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
 
 <img 
     align="left"
-    alt="GOLANG"
-    title="GOLANG"
+    alt="TYPESCRIPT"
+    title="TYPESCRIPT"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"         
 />
 
 <img 
@@ -56,6 +47,15 @@
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="NEXTJS"
+    title="NEXTJS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
 
 <img 
@@ -78,15 +78,6 @@
 
 <img 
     align="left"
-    alt="NODEMON"
-    title="NODEMON"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" 
-/>
-
-<img 
-    align="left"
     alt="PRISMA"
     title="PRISMA"
     width="30px"
@@ -96,38 +87,11 @@
 
 <img 
     align="left"
-    alt="DBEAVER"
-    title="DBEAVER"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="INSOMNIA"
-    title="INSOMNIA"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
-/>
-
-<img 
-    align="left"
     alt="FIGMA"
     title="FIGMA"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="NOTION"
-    title="NOTION"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
 />
 
 <img 
