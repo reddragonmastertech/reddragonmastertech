@@ -1,248 +1,141 @@
-# 👩‍💻 Hi, I am Red Guy.
-**`Full Stack Developer || AI & Automation Engineer`**
+<!-- ===================== -->
+<!--  HERO / INTRO BANNER -->
+<!-- ===================== -->
+
+<h1 align="center">Hi 👋, I'm Alexandro Silva de Brito</h1>
+<h3 align="center">💡 Senior Full Stack Developer | React, Next.js, Node.js, Python | AI & SaaS Platforms | LLM, Automation, Cloud (AWS/Azure)</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+with+6%2B+Years+Experience;Building+Scalable+SaaS+Platforms;AI+%7C+LLMs+%7C+Cloud+Native+Solutions;React+%7C+Next.js+%7C+Node.js+%7C+Python" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandrosilvadebrito">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandro%20Brito-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:alextbritotech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://moolax.co/">
+    <img src="https://img.shields.io/badge/Project-MoolaX-111?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://linkbycar.com/">
+    <img src="https://img.shields.io/badge/Project-LinkByCar-111?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ---
-### 🤖 Languages ​​and Technologies
 
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+## 🚀 About Me
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+💻 **Senior Full Stack Developer** with **6+ years of experience** delivering **20+ scalable SaaS platforms** across **FinTech, Healthcare, AI, and Data-driven products**.
 
-<img 
-    align="left"
-    alt="JAVASCRIPT"
-    title="JAVASCRIPT"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"         
-/>
+⚡ I specialize in:
+- High-performance **React / Next.js / Vue.js** frontends  
+- Scalable **Node.js, Django, FastAPI** backends  
+- **LLM & AI integrations** (OpenAI, LangChain, NLP)  
+- **Cloud-native architectures** on AWS & Azure  
 
-<img 
-    align="left"
-    alt="TYPESCRIPT"
-    title="TYPESCRIPT"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"         
-/>
+🌍 Remote-first engineer experienced in **cross-functional teams**, **mentoring developers**, and **shipping production-grade systems** supporting **50K+ users**.
 
-<img 
-    align="left"
-    alt="PYTHON"
-    title="PYTHON"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"         
-/>
+---
 
-<img 
-    align="left"
-    alt="REACT"
-    title="REACT"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
+## 🛠️ Tech Stack
 
-<img 
-    align="left"
-    alt="NEXTJS"
-    title="NEXTJS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 
-<img 
-    align="left"
-    alt="VUE"
-    title="VUE"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-/>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
 
-<img 
-    align="left"
-    alt="TAILWINDCSS"
-    title="TAILWINDCSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
 
-<img 
-    align="left"
-    alt="STYLDCOMPONENT"
-    title="STYLDCOMPONENT"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg"
-/>
+### 🧠 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-2C2C2C?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n)
 
-<img 
-    align="left"
-    alt="NODEJS"
-    title="NODEJS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 
-<img 
-    align="left"
-    alt="EXPRESS"
-    title="EXPRESS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
+---
 
-<img 
-    align="left"
-    alt="NEST"
-    title="NEST"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
+## 📌 Featured Projects
 
-<img 
-    align="left"
-    alt="DJANGO"
-    title="DJANGO"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
+### 💰 MoolaX — FinTech SaaS
+🔗 https://moolax.co/
 
-<img 
-    align="left"
-    alt="FASTAPI"
-    title="FASTAPI"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
+- Real-time financial dashboards for **10K+ monthly users**
+- Secure **Stripe payments** with PCI-compliant architecture
+- Scalable microservices handling **millions of records**
+- **99.9% uptime** with Docker & Kubernetes
 
-<img 
-    align="left"
-    alt="POSTGRESQL"
-    title="POSTGRESQL"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+### 🚗 LinkByCar — AI Vehicle Analytics
+🔗 https://linkbycar.com/
 
-<img 
-    align="left"
-    alt="MYSQL"
-    title="MYSQL"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+- High-volume **vehicle telemetry ingestion** with FastAPI
+- **AI-driven anomaly detection & forecasting**
+- Data-rich dashboards increasing engagement by **40%**
+- Automated CI/CD on **Microsoft Azure**
 
-<img 
-    align="left"
-    alt="MONGODB"
-    title="MONGODB"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
+---
 
-<img 
-    align="left"
-    alt="RESTAPI"
-    title="RESTAPI"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+## 📊 GitHub Stats
 
-<img 
-    align="left"
-    alt="GRAPHQL"
-    title="GRAPHQL"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" 
-/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrosilvadebrito&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrosilvadebrito&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<img 
-    align="left"
-    alt="AWS"
-    title="AWS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
-/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrosilvadebrito&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img 
-    align="left"
-    alt="GIT"
-    title="GIT"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-<img 
-    align="left"
-    alt="GITHUB"
-    title="GITHUB"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+## 🏆 GitHub Trophies
 
-<img 
-    align="left"
-    alt="DOCKER"
-    title="DOCKER"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//docker/docker-original.svg" 
-/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexandrosilvadebrito&theme=onedark&no-frame=true&row=1"/>
+</p>
 
-<img 
-    align="left"
-    alt="KUBERNETES"
-    title="KUBERNETES"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🐍 Contribution Snake
 
-<!--
-**reddragonmastertech/reddragonmastertech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+
+- 📊 Data Science & Applied Statistics  
+- 💸 Finance, Economy & SaaS Products  
+- 🎨 UI/UX & Digital Product Design  
+- 🤝 Mentoring & Open Source Contribution  
+
+---
+
+## 🤝 Let’s Connect
+
+📍 São Paulo, Brazil  
+📧 **alextbritotech@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/alexandrosilvadebrito)
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
