@@ -71,27 +71,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 
 ---
-
-## 📌 Featured Projects
-
-### 💰 MoolaX — FinTech SaaS
-🔗 https://moolax.co/
-
-- Real-time financial dashboards for **10K+ monthly users**
-- Secure **Stripe payments** with PCI-compliant architecture
-- Scalable microservices handling **millions of records**
-- **99.9% uptime** with Docker & Kubernetes
-
-### 🚗 LinkByCar — AI Vehicle Analytics
-🔗 https://linkbycar.com/
-
-- High-volume **vehicle telemetry ingestion** with FastAPI
-- **AI-driven anomaly detection & forecasting**
-- Data-rich dashboards increasing engagement by **40%**
-- Automated CI/CD on **Microsoft Azure**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -118,23 +97,6 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-## 🌱 Interests
-
-- 📊 Data Science & Applied Statistics  
-- 💸 Finance, Economy & SaaS Products  
-- 🎨 UI/UX & Digital Product Design  
-- 🤝 Mentoring & Open Source Contribution  
-
----
-
-## 🤝 Let’s Connect
-
-📍 São Paulo, Brazil  
-📧 **alextbritotech@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/alexandrosilvadebrito)
 
 ---
 
